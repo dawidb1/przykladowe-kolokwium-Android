@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Kawiarnia</string>
+    <string name="hello">Witaj w restauracji XYZ</string>
+    <string name="order_info">Aby złożyć zamówienie wpisz numer stolika oraz wybierz pozycję z listy</string>
+    <string name="choose_table">Podaj numer stolika</string>
+    <string name="choose_food">WYBIERZ DANIE</string>
+    <string name="order">ZAMÓW</string>
+    <string name="choose_item">WYBIERZ</string>
 </resources>
